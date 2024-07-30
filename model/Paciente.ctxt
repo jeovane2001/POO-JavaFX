@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Paciente
+comment1.params=
+comment1.target=int\ getId()
+comment1.text=m\u00E9todo\ GET\ do\ ID\ de\ propriedade
+comment2.params=id
+comment2.target=void\ setId(int)
+comment2.text=M\u00E9todo\ atribuiu\ ID\ da\ propriedade
+comment3.params=
+comment3.target=java.lang.String\ getNomeCompleto()
+comment3.text=GET\ metodo\ ver\ nome\ completo\ do\ proprietario
+comment4.params=nomeCompleto
+comment4.target=void\ setNomeCompleto(java.lang.String)
+comment4.text=SET\ metodo\ para\ atribuir\ nome\ completo
+comment5.params=
+comment5.target=java.lang.String\ getDataDeNascimento()
+comment5.text=GET\ Method\ Propertie\ dataDeNascimento
+comment6.params=dataDeNascimento
+comment6.target=void\ setDataDeNascimento(java.lang.String)
+comment6.text=SET\ Method\ Propertie\ dataDeNascimento
+comment7.params=
+comment7.target=int\ getidPaciente()
+comment7.text=GET\ mostra\ a\ identifica\u00E7\u00E3o\ do\ paciente
+comment8.params=idPaciente
+comment8.target=void\ setMatricula(int)
+comment8.text=SET\ id\ Paciente
+numComments=9
